@@ -6,7 +6,7 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/new/hydra.py",
+    "postStartCommand": "python3 /workspaces/Hydra/hydra.py",
     "customizations": {
         "vscode": {
             "settings": {
